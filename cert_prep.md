@@ -1,6 +1,3 @@
-# Analogy
-IAM Role <-> Service accounts (For programs to access resources in AWS account)
-
 # Configure user for aws cli
 ```aws configure```
 # AWS CLI commands
