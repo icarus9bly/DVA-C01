@@ -1,4 +1,5 @@
 # Configure user for aws cli
 ```aws configure```
-# List all users
+# AWS CLI commands
+## List all users
 ```aws iam list-users```
